@@ -2,3 +2,4 @@
 .idea
 Cargo.lock
 collatz_conjecture_fast.iml
+output.txt
